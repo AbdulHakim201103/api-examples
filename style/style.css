@@ -1,0 +1,22 @@
+.country{
+    font-size: 1.5rem;
+    color: tomato;
+    background-color: rgb(66, 62, 62);
+    border: 2px solid rgb(240, 100, 0);
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+h1{
+font-size: 3rem;
+text-align: center;
+color: white;
+background-color:black;
+margin:50px 120px;
+padding: 20px;
+border-radius: 10px;
+}
+h3{
+    color: darkorange ;
+}
