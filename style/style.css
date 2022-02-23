@@ -1,3 +1,7 @@
+#countries{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
 .country{
     font-size: 1.5rem;
     color: tomato;
@@ -18,5 +22,28 @@ padding: 20px;
 border-radius: 10px;
 }
 h3{
+    color: rgb(255, 38, 0) ;
+}
+h5{
     color: darkorange ;
+    font-size: 2rem;
+    text-align: center;
+    
+}
+button{
+    padding:10px 30px;
+    background-color: tomato;
+    border-radius: 10px;
+    font-size: 1rem;
+    color: white;
+}
+#country-details{
+    font-size: 1.5rem;
+    color: tomato;
+    background-color: rgb(101, 192, 162);
+    border: 2px solid #ec6b0e;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
 }
